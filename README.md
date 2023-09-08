@@ -1,2 +1,2 @@
-# JavaStud
+# JavaStudy
 Java Study
